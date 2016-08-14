@@ -10,11 +10,11 @@
             <BasketbuildUrl
                 id="basket"
                 title="Basketbuild"
-                description="Download ResurrectionRemix builds">https://basketbuild.com/devs/resurrectionremix/d855</basketUrl>
+                description="Download ResurrectionRemix builds">https://basketbuild.com/devs/resurrectionremix/d855</BasketbuildUrl>
             <RomUrl
                 id="rom"
                 title="Download lastest Build"
-                description="Download"><http://download.ananasspace.de/Rom/Resurrection%20Remix/D855</romUrl>
+                description="Download"><http://download.ananasspace.de/Rom/Resurrection%20Remix/D855</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
